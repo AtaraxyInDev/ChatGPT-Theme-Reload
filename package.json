@@ -1,0 +1,23 @@
+{
+  "name": "chatgpt-color-theme",
+  "displayName": "Chatgpt Theme Reload",
+  "publisher": "AtaraxInDev",
+  "description": "A theme similar to the colors used by chatgpt to display your code",
+  "version": "0.0.5",
+  "engines": {
+    "vscode": "^1.91.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Chatgpt Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/chat-gpt-theme-color-theme.json"
+      }
+    ]
+  },
+"icon": "images/logo.jpg"
+}
