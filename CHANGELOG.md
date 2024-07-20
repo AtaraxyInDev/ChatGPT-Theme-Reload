@@ -6,8 +6,6 @@
 ### Added
 - Icon and Corrections
 
-- (Aquí se enumeran los cambios que aún no se han publicado)
-
 ## [v0.0.4] - 2024-07-19
 ### Added
 - Refactor

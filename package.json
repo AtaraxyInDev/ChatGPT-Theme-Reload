@@ -3,7 +3,7 @@
   "displayName": "Chatgpt Theme Reload",
   "publisher": "AtaraxInDev",
   "description": "A theme similar to the colors used by chatgpt to display your code",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "engines": {
     "vscode": "^1.91.0"
   },

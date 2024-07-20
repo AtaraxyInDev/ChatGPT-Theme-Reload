@@ -8,7 +8,7 @@ Good morning, afternoon or evening, here Ataraxy, I made this theme, for myself 
 
 ## Screenshots
 
-![Screenshot 1](https://uc20827f3a4b04992d8e44ca043d.dl.dropboxusercontent.com/cd/0/inline/CXAbH7XkG-0GQgbnzUHNXkxe-jKC5TubjwXNkF87oNRyV23R2vSrJMKooiN1trpJXjuo2NElMxMiM2aXv9R4Mz_sN-2054RpLJcrhVOANiAZxNulVf4a9T8GWebaAAThysqJoijKN_L9SftOUDHDU1kJ/file#)
+![Screenshot 1](https://dl.dropboxusercontent.com/scl/fi/py5xu8n8x73tayhf8mmef/screenshot1.png?rlkey=r9rhclwtyh7m3gzo9rffpzwcn&st=3qnqkf36)
 
 ## My Socials 
 
